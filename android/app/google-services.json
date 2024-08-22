@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "873567475223",
+    "project_id": "chatbot-fa66a",
+    "storage_bucket": "chatbot-fa66a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873567475223:android:c27c2b757287492d65ee52",
+        "android_client_info": {
+          "package_name": "com.example.ai_chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873567475223-5pn2rq0puqfuhiu7kcl1pv28i0p0nop8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVe2-bC4t4Ob_qRS47wChpfFtolD9R6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873567475223-5pn2rq0puqfuhiu7kcl1pv28i0p0nop8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873567475223-cgjlggs0he9nn9sd2imft8cj5b39tvds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiChatbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
